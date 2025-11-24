@@ -41,6 +41,13 @@ items:
   kind: page
   new_tab: false
   children:
+  - title: Hygiène, sécurité, environnement
+    target: "/formations/hse/"
+    kind: program
+    new_tab: false
+    children: []
+    path: "/programs/hse"
+    file: content/fr/programs/hse/_index.html
   - title: Parcours et spécialisations
     target: "/la-formation/parcours-et-specialisations/"
     kind: page
