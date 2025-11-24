@@ -1,25 +1,67 @@
 ---
 title: Menu principal
 items:
+- title: Le département
+  target: "/le-departement/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Présentation
+    target: "/le-departement/presentation/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/le-departement/presentation"
+    file: content/fr/pages/le-departement/presentation/_index.html
+  - title: L'équipe
+    target: "/le-departement/lequipe/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/le-departement/lequipe"
+    file: content/fr/pages/le-departement/lequipe/_index.html
+  - title: Actualités
+    target: "/le-departement/actualites/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/posts"
+    file: content/fr/posts/_index.html
+  - title: Contact
+    target: "/le-departement/contact/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/le-departement/contact"
+    file: content/fr/pages/le-departement/contact/_index.html
+  path: "/pages/le-departement"
+  file: content/fr/pages/le-departement/_index.html
+- title: La formation
+  target: "/la-formation/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/la-formation"
+  file: content/fr/pages/la-formation/_index.html
+- title: Vie étudiante
+  target: "/vie-etudiante/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/vie-etudiante"
+  file: content/fr/pages/vie-etudiante/_index.html
 - title: Personnes
-  target: "/personnes/"
+  target: "/"
   kind: page
   new_tab: false
   children: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Organisations
-  target: "/organisations/"
+  target: "/"
   kind: page
   new_tab: false
   children: []
   path: "/organizations"
   file: content/fr/organizations/_index.html
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
 
