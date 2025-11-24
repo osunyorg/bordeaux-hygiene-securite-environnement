@@ -40,28 +40,84 @@ items:
   target: "/la-formation/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: Parcours et spécialisations
+    target: "/la-formation/parcours-et-specialisations/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/la-formation/parcours-et-specialisations"
+    file: content/fr/pages/la-formation/parcours-et-specialisations/_index.html
+  - title: Stages et alternances
+    target: "/la-formation/stages-et-alternances/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/la-formation/stages-et-alternances"
+    file: content/fr/pages/la-formation/stages-et-alternances/_index.html
   path: "/pages/la-formation"
   file: content/fr/pages/la-formation/_index.html
 - title: Vie étudiante
   target: "/vie-etudiante/"
   kind: page
   new_tab: false
-  children: []
+  children:
+  - title: Vie sur le campus
+    target: "/vie-etudiante/vie-sur-le-campus/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/vie-etudiante/vie-sur-le-campus"
+    file: content/fr/pages/vie-etudiante/vie-sur-le-campus/_index.html
+  - title: Vie hors du campus
+    target: "/vie-etudiante/vie-hors-du-campus/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/vie-etudiante/vie-hors-du-campus"
+    file: content/fr/pages/vie-etudiante/vie-hors-du-campus/_index.html
+  - title: Le foyer HSE
+    target: "/vie-etudiante/le-foyer-hse/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/vie-etudiante/le-foyer-hse"
+    file: content/fr/pages/vie-etudiante/le-foyer-hse/_index.html
   path: "/pages/vie-etudiante"
   file: content/fr/pages/vie-etudiante/_index.html
-- title: Personnes
-  target: "/"
+- title: Entreprises
+  target: "/entreprises/"
   kind: page
   new_tab: false
-  children: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
-- title: Organisations
-  target: "/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
+  children:
+  - title: Nos liens avec les entreprises
+    target: "/entreprises/nos-liens-avec-les-entreprises/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/entreprises/nos-liens-avec-les-entreprises"
+    file: content/fr/pages/entreprises/nos-liens-avec-les-entreprises/_index.html
+  - title: Taxe d'apprentissage
+    target: "/entreprises/taxe-dapprentissage/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/entreprises/taxe-dapprentissage"
+    file: content/fr/pages/entreprises/taxe-dapprentissage/_index.html
+  - title: Intervenants et vacataires
+    target: "/entreprises/intervenants-et-vacataires/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/entreprises/intervenants-et-vacataires"
+    file: content/fr/pages/entreprises/intervenants-et-vacataires/_index.html
+  - title: Offres d'emploi, de stages et d'alternances
+    target: "/entreprises/offres-demploi-de-stages-et-dalternances/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/entreprises/offres-demploi-de-stages-et-dalternances"
+    file: content/fr/pages/entreprises/offres-demploi-de-stages-et-dalternances/_index.html
+  path: "/pages/entreprises"
+  file: content/fr/pages/entreprises/_index.html
 
