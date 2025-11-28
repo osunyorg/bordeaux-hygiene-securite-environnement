@@ -69,20 +69,6 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Vie sur le campus
-    target: "/vie-etudiante/vie-sur-le-campus/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/vie-etudiante/vie-sur-le-campus"
-    file: content/fr/pages/vie-etudiante/vie-sur-le-campus/_index.html
-  - title: Vie hors du campus
-    target: "/vie-etudiante/vie-hors-du-campus/"
-    kind: page
-    new_tab: false
-    children: []
-    path: "/pages/vie-etudiante/vie-hors-du-campus"
-    file: content/fr/pages/vie-etudiante/vie-hors-du-campus/_index.html
   - title: Le foyer HSE
     target: "/vie-etudiante/le-foyer-hse/"
     kind: page
@@ -90,6 +76,13 @@ items:
     children: []
     path: "/pages/vie-etudiante/le-foyer-hse"
     file: content/fr/pages/vie-etudiante/le-foyer-hse/_index.html
+  - title: Vie sur le campus
+    target: "/vie-etudiante/vie-sur-le-campus/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/vie-etudiante/vie-sur-le-campus"
+    file: content/fr/pages/vie-etudiante/vie-sur-le-campus/_index.html
   path: "/pages/vie-etudiante"
   file: content/fr/pages/vie-etudiante/_index.html
 - title: Entreprises
