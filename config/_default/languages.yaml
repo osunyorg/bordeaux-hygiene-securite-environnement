@@ -9,6 +9,12 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      social_networks:
+        instagram:
+          label: >-
+            hsebordeaux
+          value: >-
+            https://instagram.com/hsebordeaux
 
   taxonomies:
     administrator: administrators
