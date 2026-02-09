@@ -55,6 +55,13 @@ items:
     children: []
     path: "/pages/la-formation/parcours-et-specialisations"
     file: content/fr/pages/la-formation/parcours-et-specialisations/_index.html
+  - title: Certifications et spécialisations
+    target: "/la-formation/certifications-et-specialisations/"
+    kind: page
+    new_tab: false
+    children: []
+    path: "/pages/la-formation/certifications-et-specialisations"
+    file: content/fr/pages/la-formation/certifications-et-specialisations/_index.html
   - title: Stages et alternances
     target: "/la-formation/stages-et-alternances/"
     kind: page
