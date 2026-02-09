@@ -69,7 +69,7 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Le foyer HSE
+  - title: Quotidien étudiant au département
     target: "/vie-etudiante/le-foyer-hse/"
     kind: page
     new_tab: false
@@ -90,7 +90,7 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: Nos liens avec les entreprises
+  - title: CFAI
     target: "/entreprises/nos-liens-avec-les-entreprises/"
     kind: page
     new_tab: false
