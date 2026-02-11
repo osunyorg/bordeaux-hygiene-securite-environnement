@@ -4,6 +4,6 @@ items:
 - title: INTRANET
   target: https://intranet.iut.u-bordeaux.fr/
   kind: url
-  new_tab: false
+  new_tab: true
   children: []
 
