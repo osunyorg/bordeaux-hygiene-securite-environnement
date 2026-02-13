@@ -2,129 +2,179 @@
 title: Menu principal
 items:
 - title: Le département
+  slug: le-departement
   target: "/le-departement/"
   kind: page
   new_tab: false
   children:
   - title: Présentation
+    slug: presentation
     target: "/le-departement/presentation/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/le-departement/presentation"
     file: content/fr/pages/le-departement/presentation/_index.html
   - title: L'équipe
+    slug: l-equipe
     target: "/le-departement/lequipe/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/le-departement/lequipe"
     file: content/fr/pages/le-departement/lequipe/_index.html
   - title: Actualités
+    slug: actualites
     target: "/le-departement/actualites/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/posts"
     file: content/fr/posts/_index.html
   - title: Contact
+    slug: contact
     target: "/le-departement/contact/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/le-departement/contact"
     file: content/fr/pages/le-departement/contact/_index.html
+  descendants_targets:
+  - "/le-departement/actualites/"
+  - "/le-departement/contact/"
+  - "/le-departement/lequipe/"
+  - "/le-departement/presentation/"
   path: "/pages/le-departement"
   file: content/fr/pages/le-departement/_index.html
 - title: La formation
+  slug: la-formation
   target: "/la-formation/"
   kind: page
   new_tab: false
   children:
   - title: Hygiène, sécurité, environnement
+    slug: hygiene-securite-environnement
     target: "/formations/hse/"
     kind: program
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/programs/hse"
     file: content/fr/programs/hse/_index.html
   - title: Parcours
+    slug: parcours
     target: "/la-formation/parcours-et-specialisations/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/la-formation/parcours-et-specialisations"
     file: content/fr/pages/la-formation/parcours-et-specialisations/_index.html
   - title: Certifications et spécialisations
+    slug: certifications-et-specialisations
     target: "/la-formation/certifications-et-specialisations/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/la-formation/certifications-et-specialisations"
     file: content/fr/pages/la-formation/certifications-et-specialisations/_index.html
   - title: Stages et alternances
+    slug: stages-et-alternances
     target: "/la-formation/stages-et-alternances/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/la-formation/stages-et-alternances"
     file: content/fr/pages/la-formation/stages-et-alternances/_index.html
+  descendants_targets:
+  - "/formations/hse/"
+  - "/la-formation/certifications-et-specialisations/"
+  - "/la-formation/parcours-et-specialisations/"
+  - "/la-formation/stages-et-alternances/"
   path: "/pages/la-formation"
   file: content/fr/pages/la-formation/_index.html
 - title: Vie étudiante
+  slug: vie-etudiante
   target: "/vie-etudiante/"
   kind: page
   new_tab: false
   children:
   - title: Quotidien étudiant au département
+    slug: quotidien-etudiant-au-departement
     target: "/vie-etudiante/le-foyer-hse/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/vie-etudiante/le-foyer-hse"
     file: content/fr/pages/vie-etudiante/le-foyer-hse/_index.html
   - title: Vie sur le campus
+    slug: vie-sur-le-campus
     target: "/vie-etudiante/vie-sur-le-campus/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/vie-etudiante/vie-sur-le-campus"
     file: content/fr/pages/vie-etudiante/vie-sur-le-campus/_index.html
+  descendants_targets:
+  - "/vie-etudiante/le-foyer-hse/"
+  - "/vie-etudiante/vie-sur-le-campus/"
   path: "/pages/vie-etudiante"
   file: content/fr/pages/vie-etudiante/_index.html
 - title: Entreprises
+  slug: entreprises
   target: "/entreprises/"
   kind: page
   new_tab: false
   children:
   - title: CFAI
+    slug: cfai
     target: "/entreprises/nos-liens-avec-les-entreprises/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/entreprises/nos-liens-avec-les-entreprises"
     file: content/fr/pages/entreprises/nos-liens-avec-les-entreprises/_index.html
   - title: Taxe d'apprentissage
+    slug: taxe-d-apprentissage
     target: "/entreprises/taxe-dapprentissage/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/entreprises/taxe-dapprentissage"
     file: content/fr/pages/entreprises/taxe-dapprentissage/_index.html
   - title: Intervenants et vacataires
+    slug: intervenants-et-vacataires
     target: "/entreprises/intervenants-et-vacataires/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/entreprises/intervenants-et-vacataires"
     file: content/fr/pages/entreprises/intervenants-et-vacataires/_index.html
   - title: Offres d'emploi, de stages et d'alternances
+    slug: offres-d-emploi-de-stages-et-d-alternances
     target: "/entreprises/offres-demploi-de-stages-et-dalternances/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/entreprises/offres-demploi-de-stages-et-dalternances"
     file: content/fr/pages/entreprises/offres-demploi-de-stages-et-dalternances/_index.html
+  descendants_targets:
+  - "/entreprises/intervenants-et-vacataires/"
+  - "/entreprises/nos-liens-avec-les-entreprises/"
+  - "/entreprises/offres-demploi-de-stages-et-dalternances/"
+  - "/entreprises/taxe-dapprentissage/"
   path: "/pages/entreprises"
   file: content/fr/pages/entreprises/_index.html
 
