@@ -85,18 +85,18 @@ items:
     file: content/fr/pages/la-formation/certifications-et-specialisations/_index.html
   - title: Stages et alternances
     slug: stages-et-alternances
-    target: "/la-formation/stages-et-alternances/"
+    target: "/la-formation/stage-et-apprentissage/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/la-formation/stages-et-alternances"
-    file: content/fr/pages/la-formation/stages-et-alternances/_index.html
+    path: "/pages/la-formation/stage-et-apprentissage"
+    file: content/fr/pages/la-formation/stage-et-apprentissage/_index.html
   descendants_targets:
   - "/formations/hse/"
   - "/la-formation/certifications-et-specialisations/"
   - "/la-formation/parcours-et-specialisations/"
-  - "/la-formation/stages-et-alternances/"
+  - "/la-formation/stage-et-apprentissage/"
   path: "/pages/la-formation"
   file: content/fr/pages/la-formation/_index.html
 - title: Vie étudiante
