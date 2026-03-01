@@ -74,7 +74,7 @@ items:
     descendants_targets: []
     path: "/pages/la-formation/parcours"
     file: content/fr/pages/la-formation/parcours/_index.html
-  - title: Certifications et spécialisations
+  - title: Certifications et Spécialisations
     slug: certifications-et-specialisations
     target: "/la-formation/certifications-et-specialisations/"
     kind: page
