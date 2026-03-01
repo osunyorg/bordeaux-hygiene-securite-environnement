@@ -67,13 +67,13 @@ items:
     file: content/fr/programs/hse/_index.html
   - title: Parcours
     slug: parcours
-    target: "/la-formation/parcours-et-specialisations/"
+    target: "/la-formation/parcours/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/la-formation/parcours-et-specialisations"
-    file: content/fr/pages/la-formation/parcours-et-specialisations/_index.html
+    path: "/pages/la-formation/parcours"
+    file: content/fr/pages/la-formation/parcours/_index.html
   - title: Certifications et spécialisations
     slug: certifications-et-specialisations
     target: "/la-formation/certifications-et-specialisations/"
@@ -95,7 +95,7 @@ items:
   descendants_targets:
   - "/formations/hse/"
   - "/la-formation/certifications-et-specialisations/"
-  - "/la-formation/parcours-et-specialisations/"
+  - "/la-formation/parcours/"
   - "/la-formation/stage-et-apprentissage/"
   path: "/pages/la-formation"
   file: content/fr/pages/la-formation/_index.html
@@ -107,13 +107,13 @@ items:
   children:
   - title: Quotidien étudiant au département
     slug: quotidien-etudiant-au-departement
-    target: "/vie-etudiante/le-foyer-hse/"
+    target: "/vie-etudiante/quotidien-etudiant-au-departement/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/vie-etudiante/le-foyer-hse"
-    file: content/fr/pages/vie-etudiante/le-foyer-hse/_index.html
+    path: "/pages/vie-etudiante/quotidien-etudiant-au-departement"
+    file: content/fr/pages/vie-etudiante/quotidien-etudiant-au-departement/_index.html
   - title: Vie sur le campus
     slug: vie-sur-le-campus
     target: "/vie-etudiante/vie-sur-le-campus/"
@@ -124,7 +124,7 @@ items:
     path: "/pages/vie-etudiante/vie-sur-le-campus"
     file: content/fr/pages/vie-etudiante/vie-sur-le-campus/_index.html
   descendants_targets:
-  - "/vie-etudiante/le-foyer-hse/"
+  - "/vie-etudiante/quotidien-etudiant-au-departement/"
   - "/vie-etudiante/vie-sur-le-campus/"
   path: "/pages/vie-etudiante"
   file: content/fr/pages/vie-etudiante/_index.html
@@ -136,13 +136,13 @@ items:
   children:
   - title: CFAI
     slug: cfai
-    target: "/entreprises/nos-liens-avec-les-entreprises/"
+    target: "/entreprises/cfai/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/entreprises/nos-liens-avec-les-entreprises"
-    file: content/fr/pages/entreprises/nos-liens-avec-les-entreprises/_index.html
+    path: "/pages/entreprises/cfai"
+    file: content/fr/pages/entreprises/cfai/_index.html
   - title: Taxe d'apprentissage
     slug: taxe-d-apprentissage
     target: "/entreprises/taxe-dapprentissage/"
@@ -171,8 +171,8 @@ items:
     path: "/pages/entreprises/offres-demploi-de-stages-et-dalternances"
     file: content/fr/pages/entreprises/offres-demploi-de-stages-et-dalternances/_index.html
   descendants_targets:
+  - "/entreprises/cfai/"
   - "/entreprises/intervenants-et-vacataires/"
-  - "/entreprises/nos-liens-avec-les-entreprises/"
   - "/entreprises/offres-demploi-de-stages-et-dalternances/"
   - "/entreprises/taxe-dapprentissage/"
   path: "/pages/entreprises"
