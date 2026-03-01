@@ -83,8 +83,8 @@ items:
     descendants_targets: []
     path: "/pages/la-formation/certifications-et-specialisations"
     file: content/fr/pages/la-formation/certifications-et-specialisations/_index.html
-  - title: Stages et alternances
-    slug: stages-et-alternances
+  - title: Stage et Apprentissage
+    slug: stage-et-apprentissage
     target: "/la-formation/stage-et-apprentissage/"
     kind: page
     new_tab: false
