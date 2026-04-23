@@ -13,3 +13,424 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/gradignan/"
+to = "/archives/campus/gradignan/"
+
+[[redirects]]
+from = "/accessibilite/"
+to = "/archives/accessibilite/"
+
+[[redirects]]
+from = "/diplomes/"
+to = "/archives/diplomes/"
+
+[[redirects]]
+from = "/actualites/"
+to = "/le-departement/actualites/"
+
+[[redirects]]
+from = "/formations/management-equipes-services-auto/"
+to = "/archives/formations/management-equipes-services-auto/"
+
+[[redirects]]
+from = "/formations/csmc/"
+to = "/archives/formations/csmc/"
+
+[[redirects]]
+from = "/didier-morin/roles/"
+to = "/archives/personnes/didier-morin/roles/"
+
+[[redirects]]
+from = "/salome-ducos/"
+to = "/archives/personnes/salome-ducos/"
+
+[[redirects]]
+from = "/organisations/"
+to = "/archives/organisations/"
+
+[[redirects]]
+from = "/formations/mf/"
+to = "/archives/formations/mf/"
+
+[[redirects]]
+from = "/formations/gps/"
+to = "/archives/formations/gps/"
+
+[[redirects]]
+from = "/severine-sperandio-robin/roles/"
+to = "/archives/personnes/severine-sperandio-robin/roles/"
+
+[[redirects]]
+from = "/louis-galey/"
+to = "/archives/personnes/louis-galey/"
+
+[[redirects]]
+from = "/caroline-pierre/"
+to = "/archives/personnes/caroline-pierre/"
+
+[[redirects]]
+from = "/formations/fab-additive-metallique/"
+to = "/archives/formations/fab-additive-metallique/"
+
+[[redirects]]
+from = "/formations/geii/"
+to = "/archives/formations/geii/"
+
+[[redirects]]
+from = "/la-formation/parcours-et-specialisations/"
+to = "/la-formation/parcours/"
+
+[[redirects]]
+from = "/kadhija-haidame/"
+to = "/archives/personnes/kadhija-haidame/"
+
+[[redirects]]
+from = "/bruno-camy-marmande/"
+to = "/archives/personnes/bruno-camy-marmande/"
+
+[[redirects]]
+from = "/catherine-noel-suberville/"
+to = "/archives/personnes/catherine-noel-suberville/"
+
+[[redirects]]
+from = "/equipe-editoriale/"
+to = "/archives/personnes/equipe-editoriale/"
+
+[[redirects]]
+from = "/parcours-et-specialisations/"
+to = "/la-formation/parcours/"
+
+[[redirects]]
+from = "/formations/commerce-negociation-et-distribution/"
+to = "/archives/formations/com-neg-dis/"
+
+[[redirects]]
+from = "/ecoles/"
+to = "/archives/ecoles/"
+
+[[redirects]]
+from = "/hayat-zentici/"
+to = "/archives/personnes/hayat-zentici/"
+
+[[redirects]]
+from = "/formations/outil-bim-building-information-modelling/"
+to = "/archives/formations/outil-bim/"
+
+[[redirects]]
+from = "/formations/gb/dn/"
+to = "/archives/formations/gb/dn/"
+
+[[redirects]]
+from = "/formations/gea/"
+to = "/archives/formations/gea/"
+
+[[redirects]]
+from = "/pierrick-pasquereau/"
+to = "/archives/personnes/pierrick-pasquereau/"
+
+[[redirects]]
+from = "/christele-jaillet/"
+to = "/archives/personnes/christele-jaillet/"
+
+[[redirects]]
+from = "/formations/mlt/"
+to = "/archives/formations/mlt/"
+
+[[redirects]]
+from = "/le-departement/actualites/2026-01-05-catalogue-de-formations-2025--www-iut-u-bordeaux-fr/"
+to = "/le-departement/actualites/2026-01-05-catalogue-de-formations--www-iut-u-bordeaux-fr/"
+
+[[redirects]]
+from = "/la-formation/stages-et-alternances/"
+to = "/la-formation/stage-et-apprentissage/"
+
+[[redirects]]
+from = "/formations/gmp/"
+to = "/archives/formations/gmp/"
+
+[[redirects]]
+from = "/formations/ope/"
+to = "/archives/formations/ope/"
+
+[[redirects]]
+from = "/ecoles/iut-de-bordeaux/"
+to = "/archives/ecoles/iut-de-bordeaux/"
+
+[[redirects]]
+from = "/formations/gaco/"
+to = "/archives/formations/gaco/"
+
+[[redirects]]
+from = "/diplomes/certificats-competences/"
+to = "/archives/diplomes/certificats-competences/"
+
+[[redirects]]
+from = "/formations/iaml/"
+to = "/archives/formations/iaml/"
+
+[[redirects]]
+from = "/offres-d-emploi/"
+to = "/archives/offres-d-emploi/"
+
+[[redirects]]
+from = "/formations/ra/"
+to = "/archives/formations/ra/"
+
+[[redirects]]
+from = "/roles/"
+to = "/archives/personnes/severine-sperandio-robin/roles/"
+
+[[redirects]]
+from = "/perigueux/"
+to = "/archives/campus/perigueux/"
+
+[[redirects]]
+from = "/frederic-godde/"
+to = "/archives/personnes/frederic-godde/"
+
+[[redirects]]
+from = "/formations/omsa/"
+to = "/archives/formations/omsa/"
+
+[[redirects]]
+from = "/formations/gb/sab/"
+to = "/archives/formations/gb/sab/"
+
+[[redirects]]
+from = "/formations/securiser-dossier-paie/"
+to = "/archives/formations/securiser-dossier-paie/"
+
+[[redirects]]
+from = "/equipe-administrative/"
+to = "/archives/personnes/equipe-administrative/"
+
+[[redirects]]
+from = "/politique-de-confidentialite/"
+to = "/archives/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/marion-tissier-raffin/"
+to = "/archives/personnes/marion-tissier-raffin/"
+
+[[redirects]]
+from = "/veronique-roy/"
+to = "/archives/personnes/veronique-roy/"
+
+[[redirects]]
+from = "/campus/"
+to = "/archives/campus/"
+
+[[redirects]]
+from = "/formations/intern/"
+to = "/archives/formations/intern/"
+
+[[redirects]]
+from = "/diplomes/but-secondaire/"
+to = "/archives/diplomes/but-secondaire/"
+
+[[redirects]]
+from = "/formations/mp/"
+to = "/archives/formations/mp/"
+
+[[redirects]]
+from = "/formations/tren/"
+to = "/archives/formations/tren/"
+
+[[redirects]]
+from = "/formations/tc-b/"
+to = "/archives/formations/tc-b/"
+
+[[redirects]]
+from = "/formations/gp/"
+to = "/archives/formations/gp/"
+
+[[redirects]]
+from = "/ludovic-tuduri/"
+to = "/archives/personnes/ludovic-tuduri/"
+
+[[redirects]]
+from = "/formations/gb/agro/"
+to = "/archives/formations/gb/agro/"
+
+[[redirects]]
+from = "/vie-etudiante/le-foyer-hse/"
+to = "/vie-etudiante/quotidien-etudiant-au-departement/"
+
+[[redirects]]
+from = "/formations/cs/"
+to = "/archives/formations/cs/"
+
+[[redirects]]
+from = "/campus/gradignan/"
+to = "/archives/campus/gradignan/"
+
+[[redirects]]
+from = "/nickolas-achat/"
+to = "/archives/personnes/nickolas-achat/"
+
+[[redirects]]
+from = "/formations/gcgp/"
+to = "/archives/formations/gcgp/"
+
+[[redirects]]
+from = "/severine-sperandio-robin/"
+to = "/archives/personnes/severine-sperandio-robin/"
+
+[[redirects]]
+from = "/diplomes/diplomes-universite/"
+to = "/archives/diplomes/diplomes-universite/"
+
+[[redirects]]
+from = "/certifications-et-specialisations/"
+to = "/la-formation/certifications-et-specialisations/"
+
+[[redirects]]
+from = "/formations/eti/"
+to = "/archives/formations/eti/"
+
+[[redirects]]
+from = "/didier-morin/"
+to = "/archives/personnes/didier-morin/"
+
+[[redirects]]
+from = "/personnes/"
+to = "/archives/personnes/"
+
+[[redirects]]
+from = "/formations/info/"
+to = "/archives/formations/info/"
+
+[[redirects]]
+from = "/diplomes/but-tertiaire/"
+to = "/archives/diplomes/but-tertiaire/"
+
+[[redirects]]
+from = "/equipe-pedagogique/"
+to = "/archives/personnes/equipe-pedagogique/"
+
+[[redirects]]
+from = "/entreprises/nos-liens-avec-les-entreprises/"
+to = "/entreprises/cfai/"
+
+[[redirects]]
+from = "/formations/cs/assc/"
+to = "/archives/formations/cs/assc/"
+
+[[redirects]]
+from = "/formations/fabrication-additive-metallique/"
+to = "/archives/formations/fab-additive-metallique/"
+
+[[redirects]]
+from = "/plan-du-site/"
+to = "/archives/plan-du-site/"
+
+[[redirects]]
+from = "/formations/cned/"
+to = "/archives/formations/com-neg-dis/"
+
+[[redirects]]
+from = "/formations/securiser-le-dossier-de-paie/"
+to = "/archives/formations/securiser-dossier-paie/"
+
+[[redirects]]
+from = "/formations/tss/"
+to = "/archives/formations/tss/"
+
+[[redirects]]
+from = "/formations/tc-p/"
+to = "/archives/formations/tc-p/"
+
+[[redirects]]
+from = "/formations/gb/"
+to = "/archives/formations/gb/"
+
+[[redirects]]
+from = "/formations/com-neg-dis/"
+to = "/archives/formations/com-neg-dis/"
+
+[[redirects]]
+from = "/categories/hygiene-securite-environnement/"
+to = "/archives/personnes/categories/hygiene-securite-environnement/"
+
+[[redirects]]
+from = "/mentions-legales/"
+to = "/archives/mentions-legales/"
+
+[[redirects]]
+from = "/jean-luc-dumas/"
+to = "/archives/personnes/jean-luc-dumas/"
+
+[[redirects]]
+from = "/formations/hse/"
+to = "/archives/formations/hse/"
+
+[[redirects]]
+from = "/formations/cnd/"
+to = "/archives/formations/cnd/"
+
+[[redirects]]
+from = "/diplomes/licences-professionnelles/"
+to = "/archives/diplomes/licences-professionnelles/"
+
+[[redirects]]
+from = "/laurene-joly/"
+to = "/archives/personnes/laurene-joly/"
+
+[[redirects]]
+from = "/formations/sgm/"
+to = "/archives/formations/sgm/"
+
+[[redirects]]
+from = "/formations/qlio/"
+to = "/archives/formations/qlio/"
+
+[[redirects]]
+from = "/formations/energ/"
+to = "/archives/formations/energ/"
+
+[[redirects]]
+from = "/formations/tcbi/"
+to = "/archives/formations/tcbi/"
+
+[[redirects]]
+from = "/formations/outil-bim/"
+to = "/archives/formations/outil-bim/"
+
+[[redirects]]
+from = "/formations/gccd/"
+to = "/archives/formations/gccd/"
+
+[[redirects]]
+from = "/diplomes/diplome-detat/"
+to = "/archives/diplomes/diplome-detat/"
+
+[[redirects]]
+from = "/formations/cs/vtd/"
+to = "/archives/formations/cs/vtd/"
+
+[[redirects]]
+from = "/formations/management-equipes-services-automobile/"
+to = "/archives/formations/management-equipes-services-auto/"
+
+[[redirects]]
+from = "/formations/gab/"
+to = "/archives/formations/gab/"
+
+[[redirects]]
+from = "/formations/"
+to = "/archives/formations/"
+
+[[redirects]]
+from = "/personnes/equipe-editoriale/"
+to = "/archives/personnes/equipe-editoriale/"
+
+[[redirects]]
+from = "/sylvie-monnereau/"
+to = "/archives/personnes/sylvie-monnereau/"
+
+[[redirects]]
+from = "/rafael-ristor/"
+to = "/archives/personnes/rafael-ristor/"
+
