@@ -15,422 +15,422 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/gradignan/"
+from = "/gradignan/index.html"
 to = "/archives/campus/gradignan/"
 
 [[redirects]]
-from = "/accessibilite/"
+from = "/accessibilite/index.html"
 to = "/archives/accessibilite/"
 
 [[redirects]]
-from = "/diplomes/"
+from = "/diplomes/index.html"
 to = "/archives/diplomes/"
 
 [[redirects]]
-from = "/actualites/"
+from = "/actualites/index.html"
 to = "/le-departement/actualites/"
 
 [[redirects]]
-from = "/formations/management-equipes-services-auto/"
+from = "/formations/management-equipes-services-auto/index.html"
 to = "/archives/formations/management-equipes-services-auto/"
 
 [[redirects]]
-from = "/formations/csmc/"
+from = "/formations/csmc/index.html"
 to = "/archives/formations/csmc/"
 
 [[redirects]]
-from = "/didier-morin/roles/"
+from = "/didier-morin/roles/index.html"
 to = "/archives/personnes/didier-morin/roles/"
 
 [[redirects]]
-from = "/salome-ducos/"
+from = "/salome-ducos/index.html"
 to = "/archives/personnes/salome-ducos/"
 
 [[redirects]]
-from = "/organisations/"
+from = "/organisations/index.html"
 to = "/archives/organisations/"
 
 [[redirects]]
-from = "/formations/mf/"
+from = "/formations/mf/index.html"
 to = "/archives/formations/mf/"
 
 [[redirects]]
-from = "/formations/gps/"
+from = "/formations/gps/index.html"
 to = "/archives/formations/gps/"
 
 [[redirects]]
-from = "/severine-sperandio-robin/roles/"
+from = "/severine-sperandio-robin/roles/index.html"
 to = "/archives/personnes/severine-sperandio-robin/roles/"
 
 [[redirects]]
-from = "/louis-galey/"
+from = "/louis-galey/index.html"
 to = "/archives/personnes/louis-galey/"
 
 [[redirects]]
-from = "/caroline-pierre/"
+from = "/caroline-pierre/index.html"
 to = "/archives/personnes/caroline-pierre/"
 
 [[redirects]]
-from = "/formations/fab-additive-metallique/"
+from = "/formations/fab-additive-metallique/index.html"
 to = "/archives/formations/fab-additive-metallique/"
 
 [[redirects]]
-from = "/formations/geii/"
+from = "/formations/geii/index.html"
 to = "/archives/formations/geii/"
 
 [[redirects]]
-from = "/la-formation/parcours-et-specialisations/"
+from = "/la-formation/parcours-et-specialisations/index.html"
 to = "/la-formation/parcours/"
 
 [[redirects]]
-from = "/kadhija-haidame/"
+from = "/kadhija-haidame/index.html"
 to = "/archives/personnes/kadhija-haidame/"
 
 [[redirects]]
-from = "/bruno-camy-marmande/"
+from = "/bruno-camy-marmande/index.html"
 to = "/archives/personnes/bruno-camy-marmande/"
 
 [[redirects]]
-from = "/catherine-noel-suberville/"
+from = "/catherine-noel-suberville/index.html"
 to = "/archives/personnes/catherine-noel-suberville/"
 
 [[redirects]]
-from = "/equipe-editoriale/"
+from = "/equipe-editoriale/index.html"
 to = "/archives/personnes/equipe-editoriale/"
 
 [[redirects]]
-from = "/parcours-et-specialisations/"
+from = "/parcours-et-specialisations/index.html"
 to = "/la-formation/parcours/"
 
 [[redirects]]
-from = "/formations/commerce-negociation-et-distribution/"
+from = "/formations/commerce-negociation-et-distribution/index.html"
 to = "/archives/formations/com-neg-dis/"
 
 [[redirects]]
-from = "/ecoles/"
+from = "/ecoles/index.html"
 to = "/archives/ecoles/"
 
 [[redirects]]
-from = "/hayat-zentici/"
+from = "/hayat-zentici/index.html"
 to = "/archives/personnes/hayat-zentici/"
 
 [[redirects]]
-from = "/formations/outil-bim-building-information-modelling/"
+from = "/formations/outil-bim-building-information-modelling/index.html"
 to = "/archives/formations/outil-bim/"
 
 [[redirects]]
-from = "/formations/gb/dn/"
+from = "/formations/gb/dn/index.html"
 to = "/archives/formations/gb/dn/"
 
 [[redirects]]
-from = "/formations/gea/"
+from = "/formations/gea/index.html"
 to = "/archives/formations/gea/"
 
 [[redirects]]
-from = "/pierrick-pasquereau/"
+from = "/pierrick-pasquereau/index.html"
 to = "/archives/personnes/pierrick-pasquereau/"
 
 [[redirects]]
-from = "/christele-jaillet/"
+from = "/christele-jaillet/index.html"
 to = "/archives/personnes/christele-jaillet/"
 
 [[redirects]]
-from = "/formations/mlt/"
+from = "/formations/mlt/index.html"
 to = "/archives/formations/mlt/"
 
 [[redirects]]
-from = "/le-departement/actualites/2026-01-05-catalogue-de-formations-2025--www-iut-u-bordeaux-fr/"
+from = "/le-departement/actualites/2026-01-05-catalogue-de-formations-2025--www-iut-u-bordeaux-fr/index.html"
 to = "/le-departement/actualites/2026-01-05-catalogue-de-formations--www-iut-u-bordeaux-fr/"
 
 [[redirects]]
-from = "/la-formation/stages-et-alternances/"
+from = "/la-formation/stages-et-alternances/index.html"
 to = "/la-formation/stage-et-apprentissage/"
 
 [[redirects]]
-from = "/formations/gmp/"
+from = "/formations/gmp/index.html"
 to = "/archives/formations/gmp/"
 
 [[redirects]]
-from = "/formations/ope/"
+from = "/formations/ope/index.html"
 to = "/archives/formations/ope/"
 
 [[redirects]]
-from = "/ecoles/iut-de-bordeaux/"
+from = "/ecoles/iut-de-bordeaux/index.html"
 to = "/archives/ecoles/iut-de-bordeaux/"
 
 [[redirects]]
-from = "/formations/gaco/"
+from = "/formations/gaco/index.html"
 to = "/archives/formations/gaco/"
 
 [[redirects]]
-from = "/diplomes/certificats-competences/"
+from = "/diplomes/certificats-competences/index.html"
 to = "/archives/diplomes/certificats-competences/"
 
 [[redirects]]
-from = "/formations/iaml/"
+from = "/formations/iaml/index.html"
 to = "/archives/formations/iaml/"
 
 [[redirects]]
-from = "/offres-d-emploi/"
+from = "/offres-d-emploi/index.html"
 to = "/archives/offres-d-emploi/"
 
 [[redirects]]
-from = "/formations/ra/"
+from = "/formations/ra/index.html"
 to = "/archives/formations/ra/"
 
 [[redirects]]
-from = "/roles/"
+from = "/roles/index.html"
 to = "/archives/personnes/severine-sperandio-robin/roles/"
 
 [[redirects]]
-from = "/perigueux/"
+from = "/perigueux/index.html"
 to = "/archives/campus/perigueux/"
 
 [[redirects]]
-from = "/frederic-godde/"
+from = "/frederic-godde/index.html"
 to = "/archives/personnes/frederic-godde/"
 
 [[redirects]]
-from = "/formations/omsa/"
+from = "/formations/omsa/index.html"
 to = "/archives/formations/omsa/"
 
 [[redirects]]
-from = "/formations/gb/sab/"
+from = "/formations/gb/sab/index.html"
 to = "/archives/formations/gb/sab/"
 
 [[redirects]]
-from = "/formations/securiser-dossier-paie/"
+from = "/formations/securiser-dossier-paie/index.html"
 to = "/archives/formations/securiser-dossier-paie/"
 
 [[redirects]]
-from = "/equipe-administrative/"
+from = "/equipe-administrative/index.html"
 to = "/archives/personnes/equipe-administrative/"
 
 [[redirects]]
-from = "/politique-de-confidentialite/"
+from = "/politique-de-confidentialite/index.html"
 to = "/archives/politique-de-confidentialite/"
 
 [[redirects]]
-from = "/marion-tissier-raffin/"
+from = "/marion-tissier-raffin/index.html"
 to = "/archives/personnes/marion-tissier-raffin/"
 
 [[redirects]]
-from = "/veronique-roy/"
+from = "/veronique-roy/index.html"
 to = "/archives/personnes/veronique-roy/"
 
 [[redirects]]
-from = "/campus/"
+from = "/campus/index.html"
 to = "/archives/campus/"
 
 [[redirects]]
-from = "/formations/intern/"
+from = "/formations/intern/index.html"
 to = "/archives/formations/intern/"
 
 [[redirects]]
-from = "/diplomes/but-secondaire/"
+from = "/diplomes/but-secondaire/index.html"
 to = "/archives/diplomes/but-secondaire/"
 
 [[redirects]]
-from = "/formations/mp/"
+from = "/formations/mp/index.html"
 to = "/archives/formations/mp/"
 
 [[redirects]]
-from = "/formations/tren/"
+from = "/formations/tren/index.html"
 to = "/archives/formations/tren/"
 
 [[redirects]]
-from = "/formations/tc-b/"
+from = "/formations/tc-b/index.html"
 to = "/archives/formations/tc-b/"
 
 [[redirects]]
-from = "/formations/gp/"
+from = "/formations/gp/index.html"
 to = "/archives/formations/gp/"
 
 [[redirects]]
-from = "/ludovic-tuduri/"
+from = "/ludovic-tuduri/index.html"
 to = "/archives/personnes/ludovic-tuduri/"
 
 [[redirects]]
-from = "/formations/gb/agro/"
+from = "/formations/gb/agro/index.html"
 to = "/archives/formations/gb/agro/"
 
 [[redirects]]
-from = "/vie-etudiante/le-foyer-hse/"
+from = "/vie-etudiante/le-foyer-hse/index.html"
 to = "/vie-etudiante/quotidien-etudiant-au-departement/"
 
 [[redirects]]
-from = "/formations/cs/"
+from = "/formations/cs/index.html"
 to = "/archives/formations/cs/"
 
 [[redirects]]
-from = "/campus/gradignan/"
+from = "/campus/gradignan/index.html"
 to = "/archives/campus/gradignan/"
 
 [[redirects]]
-from = "/nickolas-achat/"
+from = "/nickolas-achat/index.html"
 to = "/archives/personnes/nickolas-achat/"
 
 [[redirects]]
-from = "/formations/gcgp/"
+from = "/formations/gcgp/index.html"
 to = "/archives/formations/gcgp/"
 
 [[redirects]]
-from = "/severine-sperandio-robin/"
+from = "/severine-sperandio-robin/index.html"
 to = "/archives/personnes/severine-sperandio-robin/"
 
 [[redirects]]
-from = "/diplomes/diplomes-universite/"
+from = "/diplomes/diplomes-universite/index.html"
 to = "/archives/diplomes/diplomes-universite/"
 
 [[redirects]]
-from = "/certifications-et-specialisations/"
+from = "/certifications-et-specialisations/index.html"
 to = "/la-formation/certifications-et-specialisations/"
 
 [[redirects]]
-from = "/formations/eti/"
+from = "/formations/eti/index.html"
 to = "/archives/formations/eti/"
 
 [[redirects]]
-from = "/didier-morin/"
+from = "/didier-morin/index.html"
 to = "/archives/personnes/didier-morin/"
 
 [[redirects]]
-from = "/personnes/"
+from = "/personnes/index.html"
 to = "/archives/personnes/"
 
 [[redirects]]
-from = "/formations/info/"
+from = "/formations/info/index.html"
 to = "/archives/formations/info/"
 
 [[redirects]]
-from = "/diplomes/but-tertiaire/"
+from = "/diplomes/but-tertiaire/index.html"
 to = "/archives/diplomes/but-tertiaire/"
 
 [[redirects]]
-from = "/equipe-pedagogique/"
+from = "/equipe-pedagogique/index.html"
 to = "/archives/personnes/equipe-pedagogique/"
 
 [[redirects]]
-from = "/entreprises/nos-liens-avec-les-entreprises/"
+from = "/entreprises/nos-liens-avec-les-entreprises/index.html"
 to = "/entreprises/cfai/"
 
 [[redirects]]
-from = "/formations/cs/assc/"
+from = "/formations/cs/assc/index.html"
 to = "/archives/formations/cs/assc/"
 
 [[redirects]]
-from = "/formations/fabrication-additive-metallique/"
+from = "/formations/fabrication-additive-metallique/index.html"
 to = "/archives/formations/fab-additive-metallique/"
 
 [[redirects]]
-from = "/plan-du-site/"
+from = "/plan-du-site/index.html"
 to = "/archives/plan-du-site/"
 
 [[redirects]]
-from = "/formations/cned/"
+from = "/formations/cned/index.html"
 to = "/archives/formations/com-neg-dis/"
 
 [[redirects]]
-from = "/formations/securiser-le-dossier-de-paie/"
+from = "/formations/securiser-le-dossier-de-paie/index.html"
 to = "/archives/formations/securiser-dossier-paie/"
 
 [[redirects]]
-from = "/formations/tss/"
+from = "/formations/tss/index.html"
 to = "/archives/formations/tss/"
 
 [[redirects]]
-from = "/formations/tc-p/"
+from = "/formations/tc-p/index.html"
 to = "/archives/formations/tc-p/"
 
 [[redirects]]
-from = "/formations/gb/"
+from = "/formations/gb/index.html"
 to = "/archives/formations/gb/"
 
 [[redirects]]
-from = "/formations/com-neg-dis/"
+from = "/formations/com-neg-dis/index.html"
 to = "/archives/formations/com-neg-dis/"
 
 [[redirects]]
-from = "/categories/hygiene-securite-environnement/"
+from = "/categories/hygiene-securite-environnement/index.html"
 to = "/archives/personnes/categories/hygiene-securite-environnement/"
 
 [[redirects]]
-from = "/mentions-legales/"
+from = "/mentions-legales/index.html"
 to = "/archives/mentions-legales/"
 
 [[redirects]]
-from = "/jean-luc-dumas/"
+from = "/jean-luc-dumas/index.html"
 to = "/archives/personnes/jean-luc-dumas/"
 
 [[redirects]]
-from = "/formations/hse/"
+from = "/formations/hse/index.html"
 to = "/archives/formations/hse/"
 
 [[redirects]]
-from = "/formations/cnd/"
+from = "/formations/cnd/index.html"
 to = "/archives/formations/cnd/"
 
 [[redirects]]
-from = "/diplomes/licences-professionnelles/"
+from = "/diplomes/licences-professionnelles/index.html"
 to = "/archives/diplomes/licences-professionnelles/"
 
 [[redirects]]
-from = "/laurene-joly/"
+from = "/laurene-joly/index.html"
 to = "/archives/personnes/laurene-joly/"
 
 [[redirects]]
-from = "/formations/sgm/"
+from = "/formations/sgm/index.html"
 to = "/archives/formations/sgm/"
 
 [[redirects]]
-from = "/formations/qlio/"
+from = "/formations/qlio/index.html"
 to = "/archives/formations/qlio/"
 
 [[redirects]]
-from = "/formations/energ/"
+from = "/formations/energ/index.html"
 to = "/archives/formations/energ/"
 
 [[redirects]]
-from = "/formations/tcbi/"
+from = "/formations/tcbi/index.html"
 to = "/archives/formations/tcbi/"
 
 [[redirects]]
-from = "/formations/outil-bim/"
+from = "/formations/outil-bim/index.html"
 to = "/archives/formations/outil-bim/"
 
 [[redirects]]
-from = "/formations/gccd/"
+from = "/formations/gccd/index.html"
 to = "/archives/formations/gccd/"
 
 [[redirects]]
-from = "/diplomes/diplome-detat/"
+from = "/diplomes/diplome-detat/index.html"
 to = "/archives/diplomes/diplome-detat/"
 
 [[redirects]]
-from = "/formations/cs/vtd/"
+from = "/formations/cs/vtd/index.html"
 to = "/archives/formations/cs/vtd/"
 
 [[redirects]]
-from = "/formations/management-equipes-services-automobile/"
+from = "/formations/management-equipes-services-automobile/index.html"
 to = "/archives/formations/management-equipes-services-auto/"
 
 [[redirects]]
-from = "/formations/gab/"
+from = "/formations/gab/index.html"
 to = "/archives/formations/gab/"
 
 [[redirects]]
-from = "/formations/"
+from = "/formations/index.html"
 to = "/archives/formations/"
 
 [[redirects]]
-from = "/personnes/equipe-editoriale/"
+from = "/personnes/equipe-editoriale/index.html"
 to = "/archives/personnes/equipe-editoriale/"
 
 [[redirects]]
-from = "/sylvie-monnereau/"
+from = "/sylvie-monnereau/index.html"
 to = "/archives/personnes/sylvie-monnereau/"
 
 [[redirects]]
-from = "/rafael-ristor/"
+from = "/rafael-ristor/index.html"
 to = "/archives/personnes/rafael-ristor/"
 

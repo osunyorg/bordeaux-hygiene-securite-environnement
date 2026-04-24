@@ -74,7 +74,7 @@ items:
     descendants_targets: []
     path: "/pages/la-formation/parcours"
     file: content/fr/pages/la-formation/parcours/_index.html
-  - title: Certifications et Spécialisations
+  - title: Certifications et spécialisations
     slug: certifications-et-specialisations
     target: "/la-formation/certifications-et-specialisations/"
     kind: page
@@ -83,7 +83,7 @@ items:
     descendants_targets: []
     path: "/pages/la-formation/certifications-et-specialisations"
     file: content/fr/pages/la-formation/certifications-et-specialisations/_index.html
-  - title: Stage et Apprentissage
+  - title: Stage et apprentissage
     slug: stage-et-apprentissage
     target: "/la-formation/stage-et-apprentissage/"
     kind: page
