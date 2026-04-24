@@ -19,8 +19,8 @@ items:
   descendants_targets: []
   path: "/pages/politique-de-confidentialite"
   file: content/fr/pages/politique-de-confidentialite/_index.html
-- title: Accessibilité
-  slug: accessibilite
+- title: 'Accessibilité : non conforme'
+  slug: accessibilite-non-conforme
   target: "/accessibilite/"
   kind: page
   new_tab: false
