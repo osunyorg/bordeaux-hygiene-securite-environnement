@@ -335,10 +335,6 @@ from = "/formations/fabrication-additive-metallique/"
 to = "/archives/formations/fab-additive-metallique/"
 
 [[redirects]]
-from = "/plan-du-site/"
-to = "/archives/plan-du-site/"
-
-[[redirects]]
 from = "/formations/cned/"
 to = "/archives/formations/com-neg-dis/"
 
@@ -417,6 +413,10 @@ to = "/archives/diplomes/diplome-detat/"
 [[redirects]]
 from = "/formations/cs/vtd/"
 to = "/archives/formations/cs/vtd/"
+
+[[redirects]]
+from = "/archives/plan-du-site/"
+to = "/plan-du-site/"
 
 [[redirects]]
 from = "/formations/management-equipes-services-automobile/"
