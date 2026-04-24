@@ -19,6 +19,10 @@ from = "/gradignan/index.html"
 to = "/archives/campus/gradignan/"
 
 [[redirects]]
+from = "/archives/formations/index.html"
+to = "/la-formation/formations/"
+
+[[redirects]]
 from = "/accessibilite/index.html"
 to = "/archives/accessibilite/"
 
@@ -41,6 +45,10 @@ to = "/archives/formations/csmc/"
 [[redirects]]
 from = "/didier-morin/roles/index.html"
 to = "/archives/personnes/didier-morin/roles/"
+
+[[redirects]]
+from = "/archives/formations/hse/index.html"
+to = "/la-formation/formations/hse/"
 
 [[redirects]]
 from = "/salome-ducos/index.html"
@@ -364,7 +372,7 @@ to = "/archives/personnes/jean-luc-dumas/"
 
 [[redirects]]
 from = "/formations/hse/index.html"
-to = "/archives/formations/hse/"
+to = "/la-formation/formations/hse/"
 
 [[redirects]]
 from = "/formations/cnd/index.html"
@@ -420,7 +428,7 @@ to = "/archives/formations/gab/"
 
 [[redirects]]
 from = "/formations/index.html"
-to = "/archives/formations/"
+to = "/la-formation/formations/"
 
 [[redirects]]
 from = "/personnes/equipe-editoriale/index.html"

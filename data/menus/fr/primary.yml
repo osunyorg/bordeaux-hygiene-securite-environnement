@@ -58,7 +58,7 @@ items:
   children:
   - title: Hygiène, sécurité, environnement
     slug: hygiene-securite-environnement
-    target: "/archives/formations/hse/"
+    target: "/la-formation/formations/hse/"
     kind: program
     new_tab: false
     children: []
@@ -93,8 +93,8 @@ items:
     path: "/pages/la-formation/stage-et-apprentissage"
     file: content/fr/pages/la-formation/stage-et-apprentissage/_index.html
   descendants_targets:
-  - "/archives/formations/hse/"
   - "/la-formation/certifications-et-specialisations/"
+  - "/la-formation/formations/hse/"
   - "/la-formation/parcours/"
   - "/la-formation/stage-et-apprentissage/"
   path: "/pages/la-formation"
