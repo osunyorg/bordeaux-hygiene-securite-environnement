@@ -23,10 +23,6 @@ from = "/archives/formations/"
 to = "/la-formation/formations/"
 
 [[redirects]]
-from = "/accessibilite/"
-to = "/archives/accessibilite/"
-
-[[redirects]]
 from = "/diplomes/"
 to = "/archives/diplomes/"
 
@@ -215,10 +211,6 @@ from = "/equipe-administrative/"
 to = "/archives/personnes/equipe-administrative/"
 
 [[redirects]]
-from = "/politique-de-confidentialite/"
-to = "/archives/politique-de-confidentialite/"
-
-[[redirects]]
 from = "/marion-tissier-raffin/"
 to = "/archives/personnes/marion-tissier-raffin/"
 
@@ -241,6 +233,10 @@ to = "/archives/diplomes/but-secondaire/"
 [[redirects]]
 from = "/formations/mp/"
 to = "/archives/formations/mp/"
+
+[[redirects]]
+from = "/archives/mentions-legales/"
+to = "/mentions-legales/"
 
 [[redirects]]
 from = "/formations/tren/"
@@ -293,6 +289,14 @@ to = "/archives/diplomes/diplomes-universite/"
 [[redirects]]
 from = "/certifications-et-specialisations/"
 to = "/la-formation/certifications-et-specialisations/"
+
+[[redirects]]
+from = "/archives/accessibilite/"
+to = "/accessibilite/"
+
+[[redirects]]
+from = "/archives/politique-de-confidentialite/"
+to = "/politique-de-confidentialite/"
 
 [[redirects]]
 from = "/formations/eti/"
@@ -361,10 +365,6 @@ to = "/archives/formations/com-neg-dis/"
 [[redirects]]
 from = "/categories/hygiene-securite-environnement/"
 to = "/archives/personnes/categories/hygiene-securite-environnement/"
-
-[[redirects]]
-from = "/mentions-legales/"
-to = "/archives/mentions-legales/"
 
 [[redirects]]
 from = "/jean-luc-dumas/"
