@@ -148,7 +148,7 @@ to = "/archives/personnes/hayat-zentici/"
 
 [[redirects]]
 from = "/formations/outil-bim-building-information-modelling/index.html"
-to = "/la-formation/formations/outil-bim/"
+to = "/la-formation/formations/revit-bim/"
 
 [[redirects]]
 from = "/formations/gb/dn/index.html"
@@ -297,6 +297,10 @@ to = "/la-formation/formations/cnd/"
 [[redirects]]
 from = "/archives/formations/iaml/index.html"
 to = "/la-formation/formations/iaml/"
+
+[[redirects]]
+from = "/la-formation/formations/outil-bim/index.html"
+to = "/la-formation/formations/revit-bim/"
 
 [[redirects]]
 from = "/archives/formations/tss/index.html"
@@ -512,7 +516,7 @@ to = "/archives/personnes/laurene-joly/"
 
 [[redirects]]
 from = "/archives/formations/outil-bim/index.html"
-to = "/la-formation/formations/outil-bim/"
+to = "/la-formation/formations/revit-bim/"
 
 [[redirects]]
 from = "/formations/sgm/index.html"
@@ -548,7 +552,7 @@ to = "/la-formation/formations/gp/"
 
 [[redirects]]
 from = "/formations/outil-bim/index.html"
-to = "/la-formation/formations/outil-bim/"
+to = "/la-formation/formations/revit-bim/"
 
 [[redirects]]
 from = "/formations/gccd/index.html"
