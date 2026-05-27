@@ -44,7 +44,7 @@ to = "/le-departement/actualites/"
 
 [[redirects]]
 from = "/formations/management-equipes-services-auto/index.html"
-to = "/la-formation/formations/management-equipes-services-auto/"
+to = "/la-formation/formations/management-equipes-sav-auto/"
 
 [[redirects]]
 from = "/formations/csmc/index.html"
@@ -323,6 +323,10 @@ from = "/formations/tc-b/index.html"
 to = "/la-formation/formations/tc-b/"
 
 [[redirects]]
+from = "/la-formation/formations/management-equipes-services-auto/index.html"
+to = "/la-formation/formations/management-equipes-sav-auto/"
+
+[[redirects]]
 from = "/formations/gp/index.html"
 to = "/la-formation/formations/gp/"
 
@@ -380,7 +384,7 @@ to = "/accessibilite/"
 
 [[redirects]]
 from = "/archives/formations/management-equipes-services-auto/index.html"
-to = "/la-formation/formations/management-equipes-services-auto/"
+to = "/la-formation/formations/management-equipes-sav-auto/"
 
 [[redirects]]
 from = "/archives/formations/gb/agro/index.html"
@@ -579,8 +583,12 @@ from = "/archives/formations/mf/index.html"
 to = "/la-formation/formations/mf/"
 
 [[redirects]]
+from = "/la-formation/formations/gestion-projet-services-auto/index.html"
+to = "/la-formation/formations/gestion-projet-sav-auto/"
+
+[[redirects]]
 from = "/formations/management-equipes-services-automobile/index.html"
-to = "/la-formation/formations/management-equipes-services-auto/"
+to = "/la-formation/formations/management-equipes-sav-auto/"
 
 [[redirects]]
 from = "/formations/gab/index.html"
