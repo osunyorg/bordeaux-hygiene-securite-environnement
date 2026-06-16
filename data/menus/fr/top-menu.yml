@@ -1,7 +1,7 @@
 ---
 title: 'Menu Têtière '
 items:
-- title: INTRANET
+- title: Intranet
   slug: intranet
   target: https://intranet.iut.u-bordeaux.fr/
   kind: url
