@@ -15,6 +15,11 @@ fr:
             hsebordeaux
           value: >-
             https://instagram.com/hsebordeaux
+        linkedin:
+          label: >-
+            département-hse-iut-de-bordeaux-1271ba419
+          value: >-
+            https://www.linkedin.com/in/d%C3%A9partement-hse-iut-de-bordeaux-1271ba419/
 
   taxonomies:
     administrator: administrators
