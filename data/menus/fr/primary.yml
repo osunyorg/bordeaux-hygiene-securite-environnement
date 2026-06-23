@@ -134,8 +134,8 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: CFAI
-    slug: cfai
+  - title: CFAI Aquitaine - Pôle Formation
+    slug: cfai-aquitaine-pole-formation
     target: "/entreprises/cfai/"
     kind: page
     new_tab: false
