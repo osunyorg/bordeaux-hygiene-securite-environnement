@@ -7,6 +7,10 @@ osuny:
   website:
     id: 5c3779e7-e612-4e22-9c7d-9397e8c14e5e
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "hse.iut.u-bordeaux.fr"
 
 ## LANGUAGE
 defaultContentLanguage: fr
